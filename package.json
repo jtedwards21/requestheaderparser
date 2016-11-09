@@ -1,0 +1,16 @@
+{
+  "name": "requestheaderparser",
+  "version": "1.0.0",
+  "description": "This server tells you information about the connection in the JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "sugar": "^2.0.2",
+    "sugar-date": "^2.0.2"
+  }
+}
